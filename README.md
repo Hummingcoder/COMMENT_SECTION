@@ -8,5 +8,5 @@ This is a solution to the [Interactive comments section challenge on Frontend Me
 
 ### Links
 
-- Solution URL: [ solution URL ]()
+- Solution URL: [ solution URL ](https://www.frontendmentor.io/solutions/interactive-comment-section-solution-4ZfCJ7cfEJ)
 - Live Site URL: [ live site URL ](https://hummingcoder.github.io/COMMENT_SECTION/)
